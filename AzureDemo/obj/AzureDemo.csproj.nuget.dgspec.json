@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AzureDemo\\AzureDemo\\AzureDemo.csproj": {}
+    "E:\\Azure\\AzureDemo\\AzureDemo.csproj": {}
   },
   "projects": {
-    "E:\\AzureDemo\\AzureDemo\\AzureDemo.csproj": {
+    "E:\\Azure\\AzureDemo\\AzureDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
+        "projectUniqueName": "E:\\Azure\\AzureDemo\\AzureDemo.csproj",
         "projectName": "AzureDemo",
-        "projectPath": "E:\\AzureDemo\\AzureDemo\\AzureDemo.csproj",
+        "projectPath": "E:\\Azure\\AzureDemo\\AzureDemo.csproj",
         "packagesPath": "C:\\Users\\visakh\\.nuget\\packages\\",
-        "outputPath": "E:\\AzureDemo\\AzureDemo\\obj\\",
+        "outputPath": "E:\\Azure\\AzureDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\visakh\\AppData\\Roaming\\NuGet\\NuGet.Config",
